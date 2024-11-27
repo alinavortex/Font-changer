@@ -12,7 +12,7 @@ def extract_product_names(path):
 
 
 # открытие документа
-#document = Document('/path/to/document.docx')
+document = Document('/path/to/document.docx')
 
 
 
